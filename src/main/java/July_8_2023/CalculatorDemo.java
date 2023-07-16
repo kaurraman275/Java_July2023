@@ -11,7 +11,7 @@ public class CalculatorDemo {
         System.out.println("3. Multiplication");
         System.out.println("4. Divide");
         int number =scanner.nextInt();
-
+//user wants to continue asking more numbers for additions
         switch(number){
             case 1 :
                 System.out.println("Enter First Number");
